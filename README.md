@@ -13,9 +13,9 @@
 
 **Key Performance Indicators (KPIs)**
 
-• **Total Search Volume**: 938K
-• **Total Traffic**: 19K
-• **Total Traffic Cost**: 65K
+• **Total Search Volume**: 938K  
+• **Total Traffic**: 19K  
+• **Total Traffic Cost**: 65K  
 
 **Key Visual**
 
