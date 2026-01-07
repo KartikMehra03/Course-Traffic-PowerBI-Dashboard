@@ -3,6 +3,10 @@
 
 🛠️ **Tech Stack**
 
+• 📊 **Excel**– To create pivot table and organize the data.
+
+• 📊 **SQL**– To make connection between MYSQL Workbench and Power BI Dekstop.
+
 • 📊 **Power BI Desktop**– Data Visualization platform used for report creation.
 
 • 📂**Power Query**– Data transformation platform for cleaning, reshaping and preparing the data.
@@ -31,8 +35,8 @@
 
 **Insights and Conclusions** 
 
-• Keywords like Simpli(184), TOGAF(88) and ITIL(84) drive the majority of search volume.
+• Keywords like Simpli, TOGAF and ITIL are the top 3 contributor of search Courses with 184, 88 and 84 respectively.
 
-• PMP stands out with the highest number of courses(64) and strong visibility, indicating good alignment between demand and supply. 
+• PMP stands out with the highest number of courses(64). 
 
-• Keywords like Agilist(24), CSPO(35), CAPM(25) and Cloud(20) have lower volumes indicates less number of people searches for these courses.
+• Keywords like Cloud, Agilist,CAPM, CSPO have lower courses with 20, 24, 25 and 35 respectively which indicates that lesser number of people searches for these courses.
